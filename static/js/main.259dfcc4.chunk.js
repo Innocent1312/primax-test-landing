@@ -1,0 +1,2 @@
+(this["webpackJsonpprimax-test-landing"]=this["webpackJsonpprimax-test-landing"]||[]).push([[0],{3:function(n,t,e){n.exports=e(9)},8:function(n,t,e){},9:function(n,t,e){"use strict";e.r(t);var a=e(0),i=e.n(a),r=e(2),c=e.n(r),l=(e(8),function(){return i.a.createElement("h1",null,"Initial")});c.a.render(i.a.createElement(l,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.259dfcc4.chunk.js.map
