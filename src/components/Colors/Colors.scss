@@ -1,0 +1,18 @@
+.colors {
+  &__container {
+    margin-top: 80px;
+  }
+
+  &__button-group {
+    display: flex !important;
+    justify-content: center !important;
+  }
+
+  &__text-container {
+    margin: auto;
+  }
+
+  &__img {
+    width: inherit;
+  }
+}
