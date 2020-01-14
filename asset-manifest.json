@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/primax-test-landing/static/css/main.1c3fcc66.chunk.css",
-    "main.js": "/primax-test-landing/static/js/main.4e341178.chunk.js",
-    "main.js.map": "/primax-test-landing/static/js/main.4e341178.chunk.js.map",
+    "main.js": "/primax-test-landing/static/js/main.8d8aafd2.chunk.js",
+    "main.js.map": "/primax-test-landing/static/js/main.8d8aafd2.chunk.js.map",
     "runtime-main.js": "/primax-test-landing/static/js/runtime-main.ce5a6899.js",
     "runtime-main.js.map": "/primax-test-landing/static/js/runtime-main.ce5a6899.js.map",
-    "static/js/2.ae112b39.chunk.js": "/primax-test-landing/static/js/2.ae112b39.chunk.js",
-    "static/js/2.ae112b39.chunk.js.map": "/primax-test-landing/static/js/2.ae112b39.chunk.js.map",
+    "static/js/2.1b4ae3b9.chunk.js": "/primax-test-landing/static/js/2.1b4ae3b9.chunk.js",
+    "static/js/2.1b4ae3b9.chunk.js.map": "/primax-test-landing/static/js/2.1b4ae3b9.chunk.js.map",
     "index.html": "/primax-test-landing/index.html",
-    "precache-manifest.1ec9966a1a8560953323302bc6196727.js": "/primax-test-landing/precache-manifest.1ec9966a1a8560953323302bc6196727.js",
+    "precache-manifest.0743ab11f293bd7fdeee71fda87699d4.js": "/primax-test-landing/precache-manifest.0743ab11f293bd7fdeee71fda87699d4.js",
     "service-worker.js": "/primax-test-landing/service-worker.js",
     "static/css/main.1c3fcc66.chunk.css.map": "/primax-test-landing/static/css/main.1c3fcc66.chunk.css.map",
-    "static/js/2.ae112b39.chunk.js.LICENSE": "/primax-test-landing/static/js/2.ae112b39.chunk.js.LICENSE"
+    "static/js/2.1b4ae3b9.chunk.js.LICENSE": "/primax-test-landing/static/js/2.1b4ae3b9.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ce5a6899.js",
-    "static/js/2.ae112b39.chunk.js",
+    "static/js/2.1b4ae3b9.chunk.js",
     "static/css/main.1c3fcc66.chunk.css",
-    "static/js/main.4e341178.chunk.js"
+    "static/js/main.8d8aafd2.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/primax-test-landing/precache-manifest.1ec9966a1a8560953323302bc6196727.js"
+  "/primax-test-landing/precache-manifest.0743ab11f293bd7fdeee71fda87699d4.js"
 );
 
 self.addEventListener('message', (event) => {

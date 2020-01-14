@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b04758fabd1ae017edb96774d5a8c85",
+    "revision": "bb50b8de7009602ad4f01b43a9d050f5",
     "url": "/primax-test-landing/index.html"
   },
   {
-    "revision": "74832dd37cd883ef6e55",
+    "revision": "a4dd94445d4529feb199",
     "url": "/primax-test-landing/static/css/main.1c3fcc66.chunk.css"
   },
   {
-    "revision": "b802ff976194bb92f98d",
-    "url": "/primax-test-landing/static/js/2.ae112b39.chunk.js"
+    "revision": "d9cc507a46f1e7273a5b",
+    "url": "/primax-test-landing/static/js/2.1b4ae3b9.chunk.js"
   },
   {
     "revision": "3d9880ee0da2a100dc4a6223e0aed39a",
-    "url": "/primax-test-landing/static/js/2.ae112b39.chunk.js.LICENSE"
+    "url": "/primax-test-landing/static/js/2.1b4ae3b9.chunk.js.LICENSE"
   },
   {
-    "revision": "74832dd37cd883ef6e55",
-    "url": "/primax-test-landing/static/js/main.4e341178.chunk.js"
+    "revision": "a4dd94445d4529feb199",
+    "url": "/primax-test-landing/static/js/main.8d8aafd2.chunk.js"
   },
   {
     "revision": "95bee29cef1234386148",
