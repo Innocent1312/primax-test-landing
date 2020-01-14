@@ -1,0 +1,23 @@
+.specifications {
+  &__container {
+    margin-top: 50px;
+  }
+
+  &__text {
+    display: inline-block;
+    padding-top: 30px;
+    padding-left: 30px;
+  }
+
+  &__text-container {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  &__link {
+    margin-top: 20px;
+    max-width: max-content;
+  }
+}

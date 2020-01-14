@@ -1,0 +1,28 @@
+.colors {
+  &__container {
+    margin-top: 80px;
+  }
+
+  &__button-group {
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 50px;
+  }
+
+  &__text-container {
+    margin: auto;
+  }
+
+  &__img {
+    width: inherit;
+  }
+
+  &__main-heading {
+    font-size: 35px;
+  }
+
+  &__heading {
+    font-size: 25px;
+    margin-bottom: 75px;
+  }
+}

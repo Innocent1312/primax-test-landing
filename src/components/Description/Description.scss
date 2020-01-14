@@ -1,0 +1,33 @@
+.description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around !important;
+
+  &__heading-2 {
+    margin-top: 70px;
+    text-align: center;
+  }
+
+  &__heading-3 {
+    text-align: center;
+    color: #9d9fa0;
+    margin-top: 15px;
+    font-size: 14px;
+  }
+
+  &__item {
+    text-align: center;
+    &:hover {
+      color: royalblue;
+    }
+  }
+};
+
+.ico {
+  display: block !important;
+  margin: auto !important;
+}
+
+.img {
+  width: inherit;
+}

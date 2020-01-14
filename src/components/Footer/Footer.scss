@@ -1,0 +1,36 @@
+.contacts {
+  &__container {
+    background-color: #282c34;
+    border-radius: 5%;
+    height: 400px;
+  }
+
+  &__heading-2 {
+    padding-top: 20px;
+    color: white;
+  }
+
+  &__input-name {
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    width: inherit;
+  }
+
+  &__input-email {
+    height: 40px;
+    margin-bottom: 15px;
+    width: inherit;
+  }
+
+  &__btn {
+    color: white;
+    text-align: center;
+  }
+}
+
+.footer__data {
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,55 @@
+.header {
+  &__container {
+    margin-top: 30px;
+  }
+
+  &__heading {
+    &-1 {
+      font-size: 50px;
+      color: royalblue;
+    }
+    &-2 {
+      font-size: 50px;
+      margin-bottom: 0;
+    }
+  }
+
+  &__text-block {
+    margin: auto;
+  }
+
+  &__btn {
+    width: max-content;
+  }
+
+  &__image {
+    background-size: contain;
+    width: inherit;
+  }
+
+  &__plain-text {
+    margin: 0;
+    padding: 20px 0;
+  }
+
+  @media screen and (max-width: 991px){
+    &__heading {
+      &-1 {
+        font-size: 36px;
+        text-align: center;
+      }
+      &-2 {
+        font-size: 36px;
+        text-align: center;
+      }
+    }
+
+    &__plain-text {
+      text-align: center;
+    }
+
+    &__btn {
+      margin: auto;
+    }
+  }
+}
