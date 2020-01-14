@@ -23,13 +23,13 @@ const Colors = () => {
   };
 
   return (
-    <div className="row colors__container">
+    <div className="row colors__container" id="colors">
       <div className="col-md-5">
         {currentImage}
       </div>
       <div className="col-md-7 colors__text-container">
-        <h2 className="description__heading-2">3 стильных цвета</h2>
-        <h3 className="description__heading-3">Выберите свой ультрамодный цвет</h3>
+        <h2 className="description__heading-2 colors__main-heading">3 стильных цвета</h2>
+        <h3 className="description__heading-3 colors__heading">Выберите свой ультрамодный цвет</h3>
 
         <Button.Group className="colors__button-group">
           <Button onClick={() => setColor('white')}>White</Button>

@@ -26,12 +26,12 @@ const Navigation = ({location}) => {
         </Header.Content>
       </Header>
       <ul className="nav__list">
-        <li className="nav__item"><a href="/" className="nav__link">Характеристики</a></li>
+        <li className="nav__item"><a href="#specifications" className="nav__link">Характеристики</a></li>
         <li className="nav__item"><a href="#video" className="nav__link">Видео</a></li>
-        <li className="nav__item"><a href="/" className="nav__link">Цвета</a></li>
-        <li className="nav__item"><a href="/" className="nav__link">Отзывы</a></li>
-        <li className="nav__item"><a href="/" className="nav__link">Контакты</a></li>
-        <li className="nav__item"><a href="/" className="nav__link nav__link--btn ">Заказ</a></li>
+        <li className="nav__item"><a href="#colors" className="nav__link">Цвета</a></li>
+        <li className="nav__item"><a href="#comments" className="nav__link">Отзывы</a></li>
+        <li className="nav__item"><a href="#contacts" className="nav__link">Контакты</a></li>
+        <li className="nav__item"><a href="#contacts" className="nav__link nav__link--btn ">Заказ</a></li>
       </ul>
     </nav>
   )

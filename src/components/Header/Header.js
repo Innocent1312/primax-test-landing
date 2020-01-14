@@ -14,7 +14,7 @@ const Header = ({ location }) => (
             Быстрая доставка по России<br/>
             Оплата товара при получении!
           </p>
-          <a href="/" className="header__btn nav__link nav__link--btn ">Заказать Galaxy S10</a>
+          <a href="#contacts" className="header__btn nav__link nav__link--btn ">Заказать Galaxy S10</a>
         </div>
         <div className="col-md-6">
           <img
